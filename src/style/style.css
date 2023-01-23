@@ -1,0 +1,16 @@
+@font-face {font-family: "Museo Slab"; src: url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.eot"); src: url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.woff") format("woff"), url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/facc2325c1dff1377bb6bf9f0fb965f6.svg#Museo Slab") format("svg"); }
+body {
+    font-family: 'MuseoSlab-900';
+    background: black;
+    height: 100%;
+    overflow: hidden
+}
+canvas {
+    position: absolute;
+    max-width: 100%;
+    top: 50%;
+    left: 50%;
+    max-height: 100%;
+    transform: translate(-50%, -50%);
+}
+

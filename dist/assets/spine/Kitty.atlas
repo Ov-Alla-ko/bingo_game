@@ -1,0 +1,174 @@
+
+Kitty.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 6
+  size: 247, 308
+  orig: 247, 308
+  offset: 0, 0
+  index: -1
+cat_planet
+  rotate: false
+  xy: 312, 145
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+eye_eating
+  rotate: false
+  xy: 486, 3
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+eye_eating_1
+  rotate: false
+  xy: 541, 96
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+eye_idle
+  rotate: false
+  xy: 541, 124
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+eye_run_away
+  rotate: true
+  xy: 560, 176
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+eye_sad
+  rotate: false
+  xy: 534, 3
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+left_ear
+  rotate: false
+  xy: 486, 35
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 422, 170
+  size: 44, 136
+  orig: 44, 136
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 378, 20
+  size: 63, 123
+  orig: 63, 123
+  offset: 0, 0
+  index: -1
+left_mustache
+  rotate: true
+  xy: 347, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+mouth_celebrate
+  rotate: false
+  xy: 582, 6
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+mouth_celecrare_eat
+  rotate: true
+  xy: 486, 93
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+mouth_eating_1
+  rotate: false
+  xy: 422, 148
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+mouth_eating_2
+  rotate: false
+  xy: 312, 6
+  size: 33, 12
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+mouth_idle
+  rotate: true
+  xy: 587, 143
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+mouth_idle_tongue
+  rotate: false
+  xy: 607, 189
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+mouth_sad
+  rotate: false
+  xy: 586, 97
+  size: 43, 25
+  orig: 43, 27
+  offset: 0, 1
+  index: -1
+nose
+  rotate: true
+  xy: 374, 4
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+right_ear
+  rotate: false
+  xy: 540, 35
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 443, 10
+  size: 41, 136
+  orig: 41, 136
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 312, 20
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+right_mustache
+  rotate: true
+  xy: 361, 2
+  size: 16, 11
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+straight_tail
+  rotate: true
+  xy: 422, 216
+  size: 37, 190
+  orig: 37, 190
+  offset: 0, 0
+  index: -1
